@@ -1,2 +1,12 @@
-# scratch_algos
-Realized all main machine learning algorithms from scratch in python 
+# Machine Learing from Scratch in Python
+
+- KNearestNeighbours
+- LinearRegression
+- LogisticRegression
+- DecisionTree
+- RandomForest
+- NaiveBayes
+- SupportVectorMachine
+- PrincipalComponentAnalysis
+- KMeans
+- NeuralNetwork
