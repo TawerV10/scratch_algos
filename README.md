@@ -1,4 +1,4 @@
-# Machine Learing from Scratch in Python
+## Machine Learing from Scratch in Python
 
 - KNearestNeighbours
 - LinearRegression
